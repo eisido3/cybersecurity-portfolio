@@ -1,6 +1,1 @@
-## Projects
 
-- [`SOC Analyst Lab`](./projects/soc-lab-log-analysis.md): Investigated alerts and automated responses using Microsoft XDR
-- [`Wireshark Network Analysis`](./projects/wireshark-analysis.md): Analyzed packet captures to detect DNS abuse, TCP anomalies, and HTTP-based exfiltration
-- [`PwC Cybersecurity Internship`](./projects/pwc-internship-summary.md): Completed practical scenarios in network segmentation and risk assessment
-- [`Mastercard Cybersecurity Internship`](./projects/mastercard-phishing-simulation.md): Designed and interpreted phishing simulations as part of corporate defense strategy
