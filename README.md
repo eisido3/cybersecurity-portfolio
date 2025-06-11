@@ -6,7 +6,7 @@ Each folder in this repo contains a different area of focus. I've included log a
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -17,7 +17,7 @@ Each folder in this repo contains a different area of focus. I've included log a
 
 ---
 
-## 🧠 Why This Portfolio?
+## Why This Portfolio?
 
 I believe cybersecurity comes from *doing*. breaking down alerts, analyzing logs, and documenting your response process. I want to show:
 
@@ -28,7 +28,7 @@ I believe cybersecurity comes from *doing*. breaking down alerts, analyzing logs
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/evan-isidoro](https://linkedin.com/in/evan-isidoro)
 - **Email:** evan.isidoro@gmail.com
