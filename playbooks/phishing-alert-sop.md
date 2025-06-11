@@ -1,4 +1,4 @@
-# 📄 Standard Operating Procedure (SOP)
+# Standard Operating Procedure (SOP)
 ## Phishing Email Alert - Incident Response
 
 **Purpose:**  
@@ -9,7 +9,7 @@ SOC Analysts, Tier 1–2 Incident Responders
 
 ---
 
-## 🛠 Step-by-Step Response Workflow
+## Step-by-Step Response Workflow
 
 ### 1. **Triage**
 - Review the initial alert from email gateway, SIEM, or user report.
@@ -53,7 +53,7 @@ SOC Analysts, Tier 1–2 Incident Responders
 
 ---
 
-## 🧠 Notes
+## Thoughts
 
 - Never click links or download attachments in suspected phishing emails on a regular workstation.
 - Keep evidence (original .eml file, screenshots, logs).
